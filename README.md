@@ -34,7 +34,7 @@
 
 **I'm Rehman Asif**, a passionate Software Engineering student at PUCIT, Lahore. I love building scalable web applications and REST APIs with a strong interest in software development and system design.
 
-- 🎓 **Education:** B.Tech Software Engineering @ PUCIT, Lahore
+- 🎓 **Education:**  Software Engineering @ PUCIT, Lahore
 - 📍 **Location:** Lahore, Pakistan
 - 💻 **Current Focus:** Building scalable web applications & REST APIs
 - 🎯 **Interests:** Web Development, AI/ML, System Design, Open Source
@@ -44,9 +44,9 @@ class RehmanAsif:
     def __init__(self):
         self.role = "Aspiring Software Engineer"
         self.education = "B.Tech Software Engineering @ PUCIT, Lahore"
-        self.location = "📍 Lahore, Pakistan"
+        self.location = "Lahore, Pakistan"
         self.interests = ["Web Development", "AI/ML", "System Design", "Open Source"]
         self.current_focus = "Building scalable web applications & REST APIs"
     
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's build something amazing together 😊")
