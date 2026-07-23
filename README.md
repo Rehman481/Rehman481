@@ -64,14 +64,10 @@
 
 ---
 
-### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rehman481/Rehman481/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
-
-> ⚠️ This image won't show up until you add the GitHub Action below — see **Setup** section at the bottom for the one-time steps.
-
 ---
 
 ### 📊 GitHub Stats
@@ -84,7 +80,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehman481&layout=compact&theme=radical" alt="Top languages" />
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -92,15 +87,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rehman481&theme=radical&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
-
 ---
-
 ### 🔗 Connect With Me
 
 <p align="center">
   <a href="rehmanasif1133@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
-
 ---
-
 <p align="center">⭐ Thanks for stopping by — feel free to explore my repositories and connect!</p>
