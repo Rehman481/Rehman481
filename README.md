@@ -61,14 +61,10 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ---
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rehman481/Rehman481/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
----
 
 ### 📊 GitHub Stats
 
@@ -79,13 +75,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehman481&layout=compact&theme=radical" alt="Top languages" />
-</p>
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rehman481&theme=radical&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 ---
 ### 🔗 Connect With Me
