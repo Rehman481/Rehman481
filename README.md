@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rehman481&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Rehman481?style=flat-square&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRehman481&color=success" alt="Public repos" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -55,12 +49,21 @@
 ![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+**Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
 **Tools & Platforms**
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rehman481/Rehman481/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
@@ -69,18 +72,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehman481&show_icons=true&theme=radical" alt="Rehman481's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-tau-nine.vercel.app/api?username=Rehman481&show_icons=true&theme=radical" alt="Rehman481's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehman481&theme=radical" alt="Rehman481's streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehman481&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats-tau-nine.vercel.app/api/top-langs/?username=Rehman481&layout=compact&theme=radical" alt="Top languages" />
 </p>
 ---
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="rehmanasif1133@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rehmanasif1133@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
 ---
 <p align="center">⭐ Thanks for stopping by — feel free to explore my repositories and connect!</p>
+
