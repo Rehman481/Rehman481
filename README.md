@@ -79,12 +79,7 @@
 <p align="center">
   <img src="https://github-readme-stats-tau-nine.vercel.app/api/top-langs/?username=Rehman481&layout=compact&theme=radical" alt="Top languages" />
 </p>
----
-### 🔗 Connect With Me
 
-<p align="center">
-  <a href="mailto:rehmanasif1133@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
 ---
 <p align="center">⭐ Thanks for stopping by — feel free to explore my repositories and connect!</p>
 
