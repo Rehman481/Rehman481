@@ -72,8 +72,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  img src="https://github-readme-stats.shion.dev/api?username=Rehman481&theme=rose&hide_border=false&include_all_commits=false&count_private=false"
-  alt="Rehman481's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-tau-nine.vercel.app/api?username=Rehman481&show_icons=true&theme=radical" alt="Rehman481's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehman481&theme=radical" alt="Rehman481's streak stats" height="165"/>
 </p>
 
